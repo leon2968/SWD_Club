@@ -1,4 +1,4 @@
-#Software Developer Club Project
+# Software Developer Club Project
 
 This repository is intended for learning purposes. It is a simple demonstration of using ArrayList and IO in Java.
 
