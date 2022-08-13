@@ -8,12 +8,12 @@ This repository is intended for learning purposes. It is a simple demonstration 
 - Add a member
 - Remove a member
 - Restore the original file
-- Save the modifies list to file
+- Save the modified list to file
 
 ## Tech Stack
 
 - Java 
-- Data Strctures
+- Data Structures
 - I/O
 - Object Oriented Programming
 
