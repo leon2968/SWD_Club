@@ -1,0 +1,6 @@
+NAME**CITY**STATE**FAVORITE PROGRAMMING LANGUAGE
+John**Dallas**TX**Java
+Joan**New York**NY**JavaScript
+Jose**Tampa**FL**C++
+Han**NYC**NY**JS
+Li** YC** HB** Python
